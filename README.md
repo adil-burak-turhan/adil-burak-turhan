@@ -1,4 +1,4 @@
-## Hi there 👋
+## Excuse me, but could you teach me about the 'C' thing? 📖
 Benkyo, benkyo, benkyo!..
 <!--
 **adil-burak-turhan/adil-burak-turhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
